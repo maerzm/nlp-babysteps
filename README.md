@@ -1,4 +1,4 @@
 # nlp snippets
 
-Babystep in NLP
+Snippets for NLP
 Jupyter notebooks for some processes
